@@ -16,7 +16,6 @@ Test:
 3) Open esphome_versions folder - you should see a folder with the name of the ESPHome device, inside there is a folder with date & time of the edit. In there is the saved yaml file.
 
 Notes:
-I suggest you open all your ESPHome devices and do a save (add a # to the top line) to create a baseline
-The integration keeps 10 versions at this time - if you want this to be a different number, edit the __init__.py file (I might make this editable in config.yaml the future)
-
-I did try vibe coding a gui, but lost the will to live so anyone better at this than me please feel free!
+1) I suggest you open all your ESPHome devices and do a save (add a # to the top line) to create a baseline
+2) The integration keeps 10 versions at this time - if you want this to be a different number, edit the __init__.py file (I might make this editable in config.yaml the future)
+3) I did try vibe coding a gui, but lost the will to live after too many hours getting nowhere so anyone better at this than me please feel free!
